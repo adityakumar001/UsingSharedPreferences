@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UsingSharedPreferences</string>
+    <string name="username_key">username</string>
+    <string name="password_key">password</string>
+    <string name="logged_in_key">loggedin</string>
+    <string name="enter_username">Enter username..</string>
+    <string name="enter_password">Enter password..</string>
+    <string name="greetings">Welcome. To This App ,</string>
+    <string name="preferences">myPreferences</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="clear">Clear Data</string>
+</resources>
